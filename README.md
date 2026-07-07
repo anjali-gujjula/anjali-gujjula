@@ -35,13 +35,19 @@ Pandas • NumPy • Matplotlib • Seaborn
 **Company :** Deloitte (via Forage)
 **Skills :** Data Analysis , Forensic Technology
 **Date :** July 2026
-# 📊 GitHub Stats
-! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=anjali-gujjula&show_icons=true&hide_border=true&count-private=false)
+
 # 📫 Connect with Me
-�
-�
-�
-Load image
-Load image
-Load image
+[
+! [LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+] (https://linkedin.com/anjali-gujjula)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)
+
+](https://github.com/anjali-gujjula)
+[
+
+![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)
+
+](mailto:anjaligujjula250@gmail.com)
 Currently open to Data Analyst internship opportunities — feel free to reach out!
