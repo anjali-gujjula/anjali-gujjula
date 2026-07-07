@@ -37,7 +37,7 @@ Pandas • NumPy • Matplotlib • Seaborn
 **Date :** July 2026
 
 # 📫 Connect with Me
-! [LinkedIn] (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)
  (https://linkedin.com/anjali-gujjula)
 
 ![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)
