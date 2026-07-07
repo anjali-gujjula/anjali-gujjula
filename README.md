@@ -37,13 +37,8 @@ Pandas • NumPy • Matplotlib • Seaborn
 **Date :** July 2026
 
 # 📫 Connect with Me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]((https://github.com/anjali-gujjula)
-
-
-![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)
-(mailto:anjaligujjula250@gmail.com)
-
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)]((https://linkedin.com/anjali-gujjula)
+[![Gmail](https://skillicons.dev/icons?i=gmail)]((anjaligujjula250@gmail.com)
 
 
 Currently open to Data Analyst internship opportunities — feel free to reach out!
