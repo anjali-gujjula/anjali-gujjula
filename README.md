@@ -26,6 +26,13 @@ Pandas • NumPy • Matplotlib • Seaborn
 - Developed 7 advanced SQL queries, 3 stored procedures & 5 indexes covering patient volume trends, readmission rates & department KPIs
 - Built an interactive Power BI dashboard consolidating 5+ KPIs for hospital administration decision-making
 - Implemented query optimization using indexes and EXPLAIN profiles
+### 📊 HR Analytics Dashboard — Power BI (End-to-End, No SQL/Python)
+Interactive HR attrition dashboard built entirely in Power BI — Power Query ETL, star schema modeling, advanced DAX (CALCULATE, context transition, iterators), Dynamic Row-Level Security, custom dark theme, and mobile-responsive layout.
+
+**Key Insight:** Employees working overtime attrite at 31% vs 11% for others — nearly 3x higher.
+
+**Tools:** Power BI Desktop • Power Query • DAX • Row-Level Security  
+🔗 [Repo](https://github.com/anjali-gujjula/hr-analytics-powerbi-dashboard) | 📥 [Download .pbix](https://github.com/anjali-gujjula/hr-analytics-powerbi-dashboard/blob/main/HR_Analytics_Dashboard.pbix)
 ## 🏆 Virtual Experience Programs
 ### Introduction to Data for Decision Makers
 - **Company :** BCG X (via Forage)
