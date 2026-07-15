@@ -32,7 +32,6 @@ Interactive HR attrition dashboard built entirely in Power BI — Power Query ET
 **Key Insight:** Employees working overtime attrite at 31% vs 11% for others — nearly 3x higher.
 
 **Tools:** Power BI Desktop • Power Query • DAX • Row-Level Security  
-🔗 [Repo](https://github.com/anjali-gujjula/hr-analytics-powerbi-dashboard) | 📥 [Download .pbix](https://github.com/anjali-gujjula/hr-analytics-powerbi-dashboard/blob/main/HR_Analytics_Dashboard.pbix)
 ## 🏆 Virtual Experience Programs
 ### Introduction to Data for Decision Makers
 - **Company :** BCG X (via Forage)
